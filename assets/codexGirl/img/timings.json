@@ -1,0 +1,946 @@
+{
+ "idle": [
+  {
+   "dur": 700,
+   "file": "00.png"
+  },
+  {
+   "dur": 280,
+   "file": "01.png"
+  },
+  {
+   "dur": 280,
+   "file": "02.png"
+  },
+  {
+   "dur": 240,
+   "file": "03.png"
+  },
+  {
+   "dur": 60,
+   "file": "04.png"
+  },
+  {
+   "dur": 90,
+   "file": "05.png"
+  },
+  {
+   "dur": 60,
+   "file": "06.png"
+  },
+  {
+   "dur": 360,
+   "file": "07.png"
+  },
+  {
+   "dur": 280,
+   "file": "08.png"
+  },
+  {
+   "dur": 280,
+   "file": "09.png"
+  },
+  {
+   "dur": 700,
+   "file": "10.png"
+  },
+  {
+   "dur": 60,
+   "file": "11.png"
+  },
+  {
+   "dur": 90,
+   "file": "12.png"
+  },
+  {
+   "dur": 60,
+   "file": "13.png"
+  },
+  {
+   "dur": 140,
+   "file": "14.png"
+  },
+  {
+   "dur": 60,
+   "file": "15.png"
+  },
+  {
+   "dur": 90,
+   "file": "16.png"
+  },
+  {
+   "dur": 60,
+   "file": "17.png"
+  },
+  {
+   "dur": 500,
+   "file": "18.png"
+  }
+ ],
+ "idle-look": [
+  {
+   "dur": 500,
+   "file": "00.png"
+  },
+  {
+   "dur": 900,
+   "file": "01.png"
+  },
+  {
+   "dur": 700,
+   "file": "02.png"
+  },
+  {
+   "dur": 500,
+   "file": "03.png"
+  },
+  {
+   "dur": 60,
+   "file": "04.png"
+  },
+  {
+   "dur": 90,
+   "file": "05.png"
+  },
+  {
+   "dur": 60,
+   "file": "06.png"
+  },
+  {
+   "dur": 600,
+   "file": "07.png"
+  },
+  {
+   "dur": 700,
+   "file": "08.png"
+  }
+ ],
+ "idle-spout": [
+  {
+   "dur": 300,
+   "file": "00.png"
+  },
+  {
+   "dur": 200,
+   "file": "01.png"
+  },
+  {
+   "dur": 110,
+   "file": "02.png"
+  },
+  {
+   "dur": 110,
+   "file": "03.png"
+  },
+  {
+   "dur": 110,
+   "file": "04.png"
+  },
+  {
+   "dur": 110,
+   "file": "05.png"
+  },
+  {
+   "dur": 110,
+   "file": "06.png"
+  },
+  {
+   "dur": 110,
+   "file": "07.png"
+  },
+  {
+   "dur": 110,
+   "file": "08.png"
+  },
+  {
+   "dur": 110,
+   "file": "09.png"
+  },
+  {
+   "dur": 400,
+   "file": "10.png"
+  }
+ ],
+ "thinking": [
+  {
+   "dur": 300,
+   "file": "00.png"
+  },
+  {
+   "dur": 300,
+   "file": "01.png"
+  },
+  {
+   "dur": 300,
+   "file": "02.png"
+  },
+  {
+   "dur": 300,
+   "file": "03.png"
+  },
+  {
+   "dur": 300,
+   "file": "04.png"
+  },
+  {
+   "dur": 300,
+   "file": "05.png"
+  },
+  {
+   "dur": 300,
+   "file": "06.png"
+  },
+  {
+   "dur": 300,
+   "file": "07.png"
+  },
+  {
+   "dur": 500,
+   "file": "08.png"
+  }
+ ],
+ "typing": [
+  {
+   "dur": 110,
+   "file": "00.png"
+  },
+  {
+   "dur": 110,
+   "file": "01.png"
+  },
+  {
+   "dur": 110,
+   "file": "02.png"
+  },
+  {
+   "dur": 110,
+   "file": "03.png"
+  },
+  {
+   "dur": 110,
+   "file": "04.png"
+  },
+  {
+   "dur": 110,
+   "file": "05.png"
+  },
+  {
+   "dur": 110,
+   "file": "06.png"
+  },
+  {
+   "dur": 110,
+   "file": "07.png"
+  },
+  {
+   "dur": 110,
+   "file": "08.png"
+  },
+  {
+   "dur": 110,
+   "file": "09.png"
+  }
+ ],
+ "music": [
+  {
+   "dur": 160,
+   "file": "00.png"
+  },
+  {
+   "dur": 160,
+   "file": "01.png"
+  },
+  {
+   "dur": 160,
+   "file": "02.png"
+  },
+  {
+   "dur": 160,
+   "file": "03.png"
+  },
+  {
+   "dur": 160,
+   "file": "04.png"
+  },
+  {
+   "dur": 160,
+   "file": "05.png"
+  },
+  {
+   "dur": 160,
+   "file": "06.png"
+  },
+  {
+   "dur": 160,
+   "file": "07.png"
+  },
+  {
+   "dur": 160,
+   "file": "08.png"
+  },
+  {
+   "dur": 160,
+   "file": "09.png"
+  },
+  {
+   "dur": 160,
+   "file": "10.png"
+  },
+  {
+   "dur": 160,
+   "file": "11.png"
+  }
+ ],
+ "conducting": [
+  {
+   "dur": 180,
+   "file": "00.png"
+  },
+  {
+   "dur": 180,
+   "file": "01.png"
+  },
+  {
+   "dur": 180,
+   "file": "02.png"
+  },
+  {
+   "dur": 180,
+   "file": "03.png"
+  },
+  {
+   "dur": 180,
+   "file": "04.png"
+  },
+  {
+   "dur": 180,
+   "file": "05.png"
+  },
+  {
+   "dur": 180,
+   "file": "06.png"
+  },
+  {
+   "dur": 180,
+   "file": "07.png"
+  },
+  {
+   "dur": 180,
+   "file": "08.png"
+  },
+  {
+   "dur": 180,
+   "file": "09.png"
+  }
+ ],
+ "building": [
+  {
+   "dur": 200,
+   "file": "00.png"
+  },
+  {
+   "dur": 80,
+   "file": "01.png"
+  },
+  {
+   "dur": 120,
+   "file": "02.png"
+  },
+  {
+   "dur": 200,
+   "file": "03.png"
+  },
+  {
+   "dur": 200,
+   "file": "04.png"
+  },
+  {
+   "dur": 80,
+   "file": "05.png"
+  },
+  {
+   "dur": 120,
+   "file": "06.png"
+  },
+  {
+   "dur": 200,
+   "file": "07.png"
+  }
+ ],
+ "error": [
+  {
+   "dur": 70,
+   "file": "00.png"
+  },
+  {
+   "dur": 70,
+   "file": "01.png"
+  },
+  {
+   "dur": 70,
+   "file": "02.png"
+  },
+  {
+   "dur": 70,
+   "file": "03.png"
+  },
+  {
+   "dur": 70,
+   "file": "04.png"
+  },
+  {
+   "dur": 70,
+   "file": "05.png"
+  },
+  {
+   "dur": 70,
+   "file": "06.png"
+  },
+  {
+   "dur": 70,
+   "file": "07.png"
+  },
+  {
+   "dur": 500,
+   "file": "08.png"
+  },
+  {
+   "dur": 400,
+   "file": "09.png"
+  }
+ ],
+ "happy": [
+  {
+   "dur": 90,
+   "file": "00.png"
+  },
+  {
+   "dur": 90,
+   "file": "01.png"
+  },
+  {
+   "dur": 90,
+   "file": "02.png"
+  },
+  {
+   "dur": 90,
+   "file": "03.png"
+  },
+  {
+   "dur": 90,
+   "file": "04.png"
+  },
+  {
+   "dur": 90,
+   "file": "05.png"
+  },
+  {
+   "dur": 90,
+   "file": "06.png"
+  },
+  {
+   "dur": 90,
+   "file": "07.png"
+  },
+  {
+   "dur": 90,
+   "file": "08.png"
+  },
+  {
+   "dur": 90,
+   "file": "09.png"
+  },
+  {
+   "dur": 400,
+   "file": "10.png"
+  }
+ ],
+ "notification": [
+  {
+   "dur": 80,
+   "file": "00.png"
+  },
+  {
+   "dur": 80,
+   "file": "01.png"
+  },
+  {
+   "dur": 80,
+   "file": "02.png"
+  },
+  {
+   "dur": 500,
+   "file": "03.png"
+  },
+  {
+   "dur": 250,
+   "file": "04.png"
+  },
+  {
+   "dur": 250,
+   "file": "05.png"
+  },
+  {
+   "dur": 250,
+   "file": "06.png"
+  },
+  {
+   "dur": 250,
+   "file": "07.png"
+  }
+ ],
+ "compacting": [
+  {
+   "dur": 120,
+   "file": "00.png"
+  },
+  {
+   "dur": 120,
+   "file": "01.png"
+  },
+  {
+   "dur": 120,
+   "file": "02.png"
+  },
+  {
+   "dur": 120,
+   "file": "03.png"
+  },
+  {
+   "dur": 120,
+   "file": "04.png"
+  },
+  {
+   "dur": 120,
+   "file": "05.png"
+  },
+  {
+   "dur": 120,
+   "file": "06.png"
+  },
+  {
+   "dur": 120,
+   "file": "07.png"
+  },
+  {
+   "dur": 120,
+   "file": "08.png"
+  },
+  {
+   "dur": 120,
+   "file": "09.png"
+  }
+ ],
+ "carrying": [
+  {
+   "dur": 150,
+   "file": "00.png"
+  },
+  {
+   "dur": 150,
+   "file": "01.png"
+  },
+  {
+   "dur": 150,
+   "file": "02.png"
+  },
+  {
+   "dur": 150,
+   "file": "03.png"
+  },
+  {
+   "dur": 150,
+   "file": "04.png"
+  },
+  {
+   "dur": 150,
+   "file": "05.png"
+  },
+  {
+   "dur": 150,
+   "file": "06.png"
+  },
+  {
+   "dur": 150,
+   "file": "07.png"
+  }
+ ],
+ "sleeping": [
+  {
+   "dur": 350,
+   "file": "00.png"
+  },
+  {
+   "dur": 350,
+   "file": "01.png"
+  },
+  {
+   "dur": 350,
+   "file": "02.png"
+  },
+  {
+   "dur": 350,
+   "file": "03.png"
+  },
+  {
+   "dur": 350,
+   "file": "04.png"
+  },
+  {
+   "dur": 350,
+   "file": "05.png"
+  },
+  {
+   "dur": 350,
+   "file": "06.png"
+  },
+  {
+   "dur": 350,
+   "file": "07.png"
+  },
+  {
+   "dur": 350,
+   "file": "08.png"
+  },
+  {
+   "dur": 350,
+   "file": "09.png"
+  },
+  {
+   "dur": 350,
+   "file": "10.png"
+  },
+  {
+   "dur": 350,
+   "file": "11.png"
+  }
+ ],
+ "waking": [
+  {
+   "dur": 400,
+   "file": "00.png"
+  },
+  {
+   "dur": 300,
+   "file": "01.png"
+  },
+  {
+   "dur": 200,
+   "file": "02.png"
+  },
+  {
+   "dur": 150,
+   "file": "03.png"
+  },
+  {
+   "dur": 150,
+   "file": "04.png"
+  },
+  {
+   "dur": 200,
+   "file": "05.png"
+  },
+  {
+   "dur": 200,
+   "file": "06.png"
+  },
+  {
+   "dur": 200,
+   "file": "07.png"
+  },
+  {
+   "dur": 80,
+   "file": "08.png"
+  },
+  {
+   "dur": 500,
+   "file": "09.png"
+  }
+ ],
+ "poke-left": [
+  {
+   "dur": 80,
+   "file": "00.png"
+  },
+  {
+   "dur": 80,
+   "file": "01.png"
+  },
+  {
+   "dur": 100,
+   "file": "02.png"
+  },
+  {
+   "dur": 120,
+   "file": "03.png"
+  },
+  {
+   "dur": 120,
+   "file": "04.png"
+  },
+  {
+   "dur": 100,
+   "file": "05.png"
+  },
+  {
+   "dur": 300,
+   "file": "06.png"
+  }
+ ],
+ "poke-right": [
+  {
+   "dur": 80,
+   "file": "00.png"
+  },
+  {
+   "dur": 80,
+   "file": "01.png"
+  },
+  {
+   "dur": 100,
+   "file": "02.png"
+  },
+  {
+   "dur": 120,
+   "file": "03.png"
+  },
+  {
+   "dur": 120,
+   "file": "04.png"
+  },
+  {
+   "dur": 100,
+   "file": "05.png"
+  },
+  {
+   "dur": 300,
+   "file": "06.png"
+  }
+ ],
+ "tickle": [
+  {
+   "dur": 70,
+   "file": "00.png"
+  },
+  {
+   "dur": 70,
+   "file": "01.png"
+  },
+  {
+   "dur": 70,
+   "file": "02.png"
+  },
+  {
+   "dur": 70,
+   "file": "03.png"
+  },
+  {
+   "dur": 70,
+   "file": "04.png"
+  },
+  {
+   "dur": 70,
+   "file": "05.png"
+  },
+  {
+   "dur": 70,
+   "file": "06.png"
+  },
+  {
+   "dur": 70,
+   "file": "07.png"
+  },
+  {
+   "dur": 70,
+   "file": "08.png"
+  },
+  {
+   "dur": 70,
+   "file": "09.png"
+  },
+  {
+   "dur": 70,
+   "file": "10.png"
+  },
+  {
+   "dur": 70,
+   "file": "11.png"
+  }
+ ],
+ "drag": [
+  {
+   "dur": 120,
+   "file": "00.png"
+  },
+  {
+   "dur": 120,
+   "file": "01.png"
+  },
+  {
+   "dur": 120,
+   "file": "02.png"
+  },
+  {
+   "dur": 120,
+   "file": "03.png"
+  },
+  {
+   "dur": 120,
+   "file": "04.png"
+  },
+  {
+   "dur": 120,
+   "file": "05.png"
+  },
+  {
+   "dur": 120,
+   "file": "06.png"
+  },
+  {
+   "dur": 120,
+   "file": "07.png"
+  },
+  {
+   "dur": 120,
+   "file": "08.png"
+  },
+  {
+   "dur": 120,
+   "file": "09.png"
+  }
+ ],
+ "swim": [
+  {
+   "dur": 140,
+   "file": "00.png"
+  },
+  {
+   "dur": 140,
+   "file": "01.png"
+  },
+  {
+   "dur": 140,
+   "file": "02.png"
+  },
+  {
+   "dur": 140,
+   "file": "03.png"
+  },
+  {
+   "dur": 140,
+   "file": "04.png"
+  },
+  {
+   "dur": 140,
+   "file": "05.png"
+  },
+  {
+   "dur": 140,
+   "file": "06.png"
+  },
+  {
+   "dur": 140,
+   "file": "07.png"
+  },
+  {
+   "dur": 140,
+   "file": "08.png"
+  },
+  {
+   "dur": 140,
+   "file": "09.png"
+  },
+  {
+   "dur": 140,
+   "file": "10.png"
+  },
+  {
+   "dur": 140,
+   "file": "11.png"
+  }
+ ],
+ "smile-hearts": [
+  {
+   "dur": 150,
+   "file": "00.png"
+  },
+  {
+   "dur": 150,
+   "file": "01.png"
+  },
+  {
+   "dur": 150,
+   "file": "02.png"
+  },
+  {
+   "dur": 150,
+   "file": "03.png"
+  },
+  {
+   "dur": 150,
+   "file": "04.png"
+  },
+  {
+   "dur": 150,
+   "file": "05.png"
+  },
+  {
+   "dur": 150,
+   "file": "06.png"
+  },
+  {
+   "dur": 150,
+   "file": "07.png"
+  },
+  {
+   "dur": 150,
+   "file": "08.png"
+  },
+  {
+   "dur": 150,
+   "file": "09.png"
+  },
+  {
+   "dur": 150,
+   "file": "10.png"
+  },
+  {
+   "dur": 150,
+   "file": "11.png"
+  }
+ ],
+ "thumbs-up": [
+  {
+   "dur": 80,
+   "file": "00.png"
+  },
+  {
+   "dur": 80,
+   "file": "01.png"
+  },
+  {
+   "dur": 300,
+   "file": "02.png"
+  },
+  {
+   "dur": 300,
+   "file": "03.png"
+  },
+  {
+   "dur": 150,
+   "file": "04.png"
+  },
+  {
+   "dur": 300,
+   "file": "05.png"
+  },
+  {
+   "dur": 300,
+   "file": "06.png"
+  },
+  {
+   "dur": 400,
+   "file": "07.png"
+  }
+ ]
+}
